@@ -64,7 +64,7 @@ const routes = [{
 
 },
 {
-  path: '*',
+  path: '/error',
   component: errorPage,
   beforeEnter (to, from, next) {
     if (window.localStorage.getItem('token')) {
