@@ -75,6 +75,10 @@ const routes = [{
       next()
     }
   }
+},
+{
+  path: '/error',
+  component: errorPage
 }
 ]
 
