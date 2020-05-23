@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # stock-trader-app
 
 ## Project setup
